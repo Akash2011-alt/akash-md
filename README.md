@@ -1,0 +1,2 @@
+# akash-md
+GHOST
