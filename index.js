@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `AKASH-MD connected ✅\n\nPREFIX: ${prefix}`;
       await AKASH.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/kawwagaming02/AKASH-md/blob/main/images/AKASH-MD%20(1).jpg?raw=true` },
+        image: { url: `https://github.com/Akash2011-alt/Web-pair/blob/main/images/akashmd%202.jpg?raw=true` },
         caption: up
       });
 
